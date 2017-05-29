@@ -17,6 +17,7 @@
 		.ВключитьФайл("tests")
 		.ВключитьФайл("features")
 		.ВключитьФайл("bin")
+		.ВключитьФайл("oscript_modules")
 		.ВключитьФайл("config-example.xml")
 		.ВключитьФайл("readme.md")
 		.ИсполняемыйФайл("src/gitsync.os");
