@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<opm-metadata xmlns="http://oscript.io/schemas/opm-metadata/1.0">
+    <name>tool1cd</name>
+    <version>0.3</version>
+    <depends-on name="tempfiles" />
+    <depends-on name="logos" />
+</opm-metadata>

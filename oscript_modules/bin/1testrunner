@@ -1,0 +1,2 @@
+#!/bin/bash
+oscript "/media/khorevaa/764B7AA318E25C28/os-projects/os/gitsync/oscript_modules/1testrunner/main.os" "$@"

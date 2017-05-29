@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<opm-metadata xmlns="http://oscript.io/schemas/opm-metadata/1.0">
+    <name>1testrunner</name>
+    <version>1.4.3</version>
+    <depends-on name="logos" />
+    <depends-on name="cmdline" />
+    <depends-on name="tempfiles" />
+    <depends-on name="strings" />
+    <depends-on name="1commands" version="0.8" />
+    <executable name="1testrunner">main.os</executable>
+</opm-metadata>
